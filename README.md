@@ -1,6 +1,6 @@
 # DKP Tracker
 
-A DKP tracking website with Discord login and multi-guild supports.
+A DKP tracking website with Discord login and multi-guild support.
 
 ## Features
 - Discord login (OAuth2)
